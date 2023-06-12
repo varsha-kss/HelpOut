@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475879312761",
+    "project_id": "helpout-ea7ce",
+    "storage_bucket": "helpout-ea7ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475879312761:android:344c8e3e7341a7b214b3a8",
+        "android_client_info": {
+          "package_name": "com.example.help_out"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475879312761-p4hm607l7rcqp48jcdrpj5dcm4ogcv3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHLuuo3_w-Jj5ZHE_FTsk-laTD9sKJWAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475879312761-p4hm607l7rcqp48jcdrpj5dcm4ogcv3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

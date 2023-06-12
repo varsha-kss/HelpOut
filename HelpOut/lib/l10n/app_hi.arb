@@ -1,0 +1,23 @@
+{
+  "homePage": "मुख पृष्ठ",
+  "food": "खाना",
+  "money": "धन",
+  "books": "पुस्तकें",
+  "others": "अन्य",
+  "teaching": "पढ़ाना",
+  "clothes": "कपड़े",
+  "menu": "मेन्यू",
+  "register": "रजिस्टर",
+  "aboutUs": "हमारे बारे में",
+  "contact": "संपर्क",
+  "signout": "साइन आउट",
+  "dnyandeepbalgruha":"ज्ञानदीप बालगृह",
+  "info1about": "एक अनाथालय 70 से अधिक अनाथों की बुनियादी जरूरतों और प्राथमिक शिक्षा के लिए धन देकर उनकी देखभाल करता है",
+  "view": "स्थान देखें",
+  "scan":"भुगतान करने के लिए स्कैन करें",
+  "info10name":"रिलीफ ओल्ड एज होम, कोझीकोड",
+  "info10about":"यह कोझिकोड में एक वृद्धाश्रम है, जो 100 से अधिक वृद्ध लोगों के कल्याण के लिए काम कर रहा है",
+  "info9name":"नमना मरम वृद्धाश्रम",
+  "info9about":"यह कोझीकोड, केरल में सबसे धर्मार्थ वृद्धाश्रमों में से एक है।",
+  "about": "Lorem Ipsum छपाई और अक्षर योजन उद्योग का एक साधारण डमी पाठ है. Lorem Ipsum सन १५०० के बाद से अभी तक इस उद्योग का मानक डमी पाठ मन गया, जब एक अज्ञात मुद्रक ने नमूना लेकर एक नमूना किताब बनाई. यह न केवल पाँच सदियों से जीवित रहा बल्कि इसने इलेक्ट्रॉनिक मीडिया में छलांग लगाने के बाद भी मूलतः अपरिवर्तित रहा. यह 1960 के दशक में Letraset Lorem Ipsum अंश युक्त पत्र के रिलीज के साथ लोकप्रिय हुआ, और हाल ही में Aldus PageMaker Lorem Ipsum के संस्करणों सहित तरह डेस्कटॉप प्रकाशन सॉफ्टवेयर के साथ अधिक प्रचलित हुआ.try's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+}
